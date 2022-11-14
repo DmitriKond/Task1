@@ -7,7 +7,6 @@ public class Exercise5 {
         int num1 = 0;
         int num2 = 1;
         int num3;
-        System.out.println("This is some change");
         System.out.println("Input a number to check if it's in the Fibonacci Sequence");
         fiboCheckNumber = scanner.nextInt();
         do {
